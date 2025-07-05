@@ -22,7 +22,7 @@ A simple Python script that checks if your password has ever been exposed in kno
 
 2. **Run the script:**
    ```bash
-   python password_checker.py yourpasswords 
+   python checkmypass.py fillyourpasswords 
    ```
    Multiple passwords can be checked by seperating with space.
 
