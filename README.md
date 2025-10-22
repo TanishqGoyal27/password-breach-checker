@@ -43,7 +43,7 @@ This script uses k-Anonymity, meaning **your full password or its full hash is n
 
 ## 👨‍💻 Author
 Tanishq Goyal  
-B.Tech CSE @ Thapar Institute  
+B.Tech CSE @ Thapar Institute (2024-2028) 
 [LinkedIn](https://www.linkedin.com/in/tanishq-goyal-50b989309/)
 
 ---
